@@ -5,6 +5,7 @@ Proyecto académico desarrollado para la materia **Compiladores** en la **Univer
 ## Autores
 - **Saith Martinez**
 - **Yair Ospino**
+- **Luís Lopez**
 
 ---
 
